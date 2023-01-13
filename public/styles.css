@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+
+h1,h2,h4,p{
+    color: black;
+}
+
+
+input{
+    width: 12%;
+    padding: 12px 20px;
+    
+    box-sizing: border-box;
+    height:2.3rem;
+    margin-right: 1rem;
+  }
+
+  img{
+  width: 40%;
+  }
+
+  .message {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+
+  .center {
+    position: absolute;
+    top: 30%;
+    left:45%;
+    
+  }
+  
