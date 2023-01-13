@@ -1,6 +1,7 @@
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Lottery Frontend
+This is the frontend of the lottery contract . The actual contract code is available in my repository.This is based on lottery contract made on solidity v0.8.17 .
 
 ## Available Scripts
 
