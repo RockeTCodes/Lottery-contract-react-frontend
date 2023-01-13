@@ -3,6 +3,8 @@
 ## Lottery Frontend
 This is the frontend of the lottery contract . The actual contract code is available in my repository https://github.com/RockeTCodes/ethereum-contract-lottery .This is based on lottery contract made on solidity v0.8.17 .{Updated version}
 
+This app is deployed at https://lottery-react-omega.vercel.app/
+
 I have used react functional component . Although the course I am watching is using React Classes.
 
 This contract allows users to enter themselves into the lottery . When the manager calls pick winner function the total money is sent to the winner .
