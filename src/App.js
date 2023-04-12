@@ -98,7 +98,9 @@ function App() {
       </IconButton>
 </div>
 
-
+<div class="footer">
+    <p>Made with ❤️ By <a href = "https://www.github.com/RockeTCodes">RockeTCodes</a></p>
+  </div>
 
 
 
